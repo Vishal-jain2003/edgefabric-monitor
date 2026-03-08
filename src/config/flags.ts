@@ -1,0 +1,15 @@
+export const FLAGS = {
+  CACHE_OPS: true,
+  REGISTRY: true,
+  DELETE_OP: false,
+  METRICS: false,
+  REPLICATION: false,
+  WAL_SNAPSHOTS: false,
+  GOSSIP_SWIM: false,
+  REBALANCER: false,
+  CHAOS: false,
+  MCP_AGENT: false,
+  GRPC: false,
+  SECURITY_MTLS: false,
+  CICD: false,
+};
